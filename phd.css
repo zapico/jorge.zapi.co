@@ -1,0 +1,58 @@
+/*Phd Site*/
+html {
+	color: black;
+	background: #eee url(/images/gh.png) 50% 50% repeat;
+	font-family: 'Ubuntu', sans-serif;
+	line-height:125%;
+}
+body {
+
+}
+#content {
+	/* Right shadow background */
+	/* background: white url(/img/page-shadow-right.png) 100% 0% repeat-y; */
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	width: 1024px;
+	text-align: left;
+}
+#text_left {
+	width: 270px;
+	padding: 15px;
+	background-color:rgba(255,255,255,0.9);
+	float: left;
+	margin-bottom:25px;
+}
+#text_right {
+	width: 670px;
+	background-color:rgba(255,255,255,0.9);
+	padding: 15px;
+	float: right;
+		margin-bottom:25px;
+}
+h1,h2{
+	color: white;
+	line-height:125%;
+}
+bigger{
+	font-size: 1.3em;
+}
+orange{
+	color: white;
+	padding: 3px;
+	background-color:rgba(57,125,2,0.95);
+}
+a{
+	color: black;
+	font-weight: normal;
+	border-bottom: black 1px dotted;
+	text-decoration:none;
+}
+a:hover {
+	color:rgba(57,125,2,0.95);
+}
+img a{
+	border-bottom: none;
+	text-decoration:none;
+}

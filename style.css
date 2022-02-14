@@ -1,0 +1,24 @@
+body{
+  padding: 100px;
+}
+h2{
+  text-transform: uppercase;
+  font-size: 4em;
+}
+h3{
+  font-size: 2em;
+}
+p{
+
+}
+p,h1,h2,h3{
+  font-family: 'Andale Mono';
+}
+a{
+  text-decoration: none;
+  color: #228B22;
+}
+a:hover{
+  color: #FFFFFF;
+  background-color: #228B22;
+}
